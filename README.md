@@ -15,10 +15,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://rohitkumar.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-kumar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://rohit-portfolio-five-phi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-334132317/)
 [![Email](https://img.shields.io/badge/Email-vermarohit7780%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vermarohit7780@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitkumar)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohit1verma)
 
 <br/>
 
@@ -34,7 +34,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rohitkumar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&ring_color=6D28D9" width="420"/>
 
-I am a Computer Science Engineer graduating in 2026 from BLDEA's College of Engineering & Technology, Vijayapura, with a CGPA of 8.1. I build production-grade software systems that sit at the intersection of **AI/ML engineering**, **full-stack development**, and **agentic automation**.
+I am a Computer Science Engineer graduating in 2026 from BLDEA's College of Engineering & Technology, Vijayapura, with a CGPA of 8.3. I build production-grade software systems that sit at the intersection of **AI/ML engineering**, **full-stack development**, and **agentic automation**.
 
 My engineering philosophy is rooted in delivering measurable impact — from designing CNN + Transformer hybrid models for medical diagnostics to architecting real-time retail analytics pipelines with YOLOv8 and multi-feed CCTV processing. I treat every project as a product: performance-critical, observable, and deployment-ready.
 
@@ -313,9 +313,9 @@ Owned the full engineering lifecycle of Money MateX, an AI-powered Telegram expe
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20Problems%20Solved-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/rohitkumar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20Problems%20Solved-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rohit-verma/)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/rohitkumar?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8)](https://leetcode.com/rohitkumar)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/rohitkumar?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8)](https://leetcode.com/u/Rohit-verma/)
 
 </div>
 
@@ -412,9 +412,9 @@ current_focus:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-vermarohit7780%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vermarohit7780@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rohit--kumar-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-kumar)
-[![GitHub](https://img.shields.io/badge/GitHub-rohitkumar-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitkumar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rohitkumar.dev-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://rohitkumar.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rohit--kumar-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-334132317/)
+[![GitHub](https://img.shields.io/badge/GitHub-rohitkumar-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohit1verma)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rohitkumar.dev-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://rohit-portfolio-five-phi.vercel.app)
 
 </div>
 
