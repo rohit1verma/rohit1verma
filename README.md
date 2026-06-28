@@ -341,7 +341,9 @@ Owned the full engineering lifecycle of Money MateX, an AI-powered Telegram expe
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rohit1verma&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rohit1verma&theme=kimbie_dark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 </div>
 
