@@ -9,7 +9,7 @@
 <br/>
 
 ![Degree](https://img.shields.io/badge/B.E%20CSE-BLDEA%20CET%20Vijayapura-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-8.1%2F10-6D28D9?style=flat-square&logo=academia&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.3%2F10-6D28D9?style=flat-square&logo=academia&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-2026-4C1D95?style=flat-square&logo=calendar&logoColor=white)
 ![Location](https://img.shields.io/badge/India-Karnataka%20%7C%20Open%20to%20Relocate-8B5CF6?style=flat-square&logo=google-maps&logoColor=white)
 
@@ -34,7 +34,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rohit1verma&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&ring_color=6D28D9" width="420"/>
 
-I am a Computer Science Engineer graduating in 2026 from BLDEA's College of Engineering & Technology, Vijayapura, with a CGPA of 8.1. I build production-grade software systems that sit at the intersection of **AI/ML engineering**, **full-stack development**, and **agentic automation**.
+I am a Computer Science Engineer graduating in 2026 from BLDEA's College of Engineering & Technology, Vijayapura, with a CGPA of 8.3. I build production-grade software systems that sit at the intersection of **AI/ML engineering**, **full-stack development**, and **agentic automation**.
 
 My engineering philosophy is rooted in delivering measurable impact — from designing CNN + Transformer hybrid models for medical diagnostics to architecting real-time retail analytics pipelines with YOLOv8 and multi-feed CCTV processing. I treat every project as a product: performance-critical, observable, and deployment-ready.
 
