@@ -16,15 +16,15 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://rohit-portfolio-five-phi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-334132317/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-kumar-334132317)
 [![Email](https://img.shields.io/badge/Email-vermarohit7780%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vermarohit7780@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohit1verma)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rohitkumar&style=flat-square&color=7C3AED&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/rohitkumar?style=flat-square&color=6D28D9&label=Followers&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/rohitkumar?style=flat-square&color=4C1D95&label=Stars&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=rohit1verma&style=flat-square&color=7C3AED&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/rohit1verma?style=flat-square&color=6D28D9&label=Followers&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/rohit1verma?style=flat-square&color=4C1D95&label=Stars&logo=github)
 
 </div>
 
@@ -32,9 +32,9 @@
 
 ## ◈ About
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=rohitkumar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&ring_color=6D28D9" width="420"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=rohit1verma&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&ring_color=6D28D9" width="420"/>
 
-I am a Computer Science Engineer graduating in 2026 from BLDEA's College of Engineering & Technology, Vijayapura, with a CGPA of 8.3. I build production-grade software systems that sit at the intersection of **AI/ML engineering**, **full-stack development**, and **agentic automation**.
+I am a Computer Science Engineer graduating in 2026 from BLDEA's College of Engineering & Technology, Vijayapura, with a CGPA of 8.1. I build production-grade software systems that sit at the intersection of **AI/ML engineering**, **full-stack development**, and **agentic automation**.
 
 My engineering philosophy is rooted in delivering measurable impact — from designing CNN + Transformer hybrid models for medical diagnostics to architecting real-time retail analytics pipelines with YOLOv8 and multi-feed CCTV processing. I treat every project as a product: performance-critical, observable, and deployment-ready.
 
@@ -116,7 +116,7 @@ I hold **400+ LeetCode problems solved** and am a **KSCST Government Grant Recip
 
 This project demonstrates deep system integration — ML models operating on live hardware feeds, stream processing with Kafka, caching with Redis, and a FastAPI analytics layer — all containerized for production parity. The idempotent ingestion engine ensures zero data loss across session reconstructions, while the zone-level dwell heatmaps provide spatial intelligence unavailable in traditional retail analytics tools.
 
-[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/rohitkumar/store-intelligence)
+[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/rohit1verma/store-intelligence)
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Preview-6D28D9?style=flat-square&logo=vercel&logoColor=white)](https://store-intelligence.demo)
 
 </details>
@@ -145,7 +145,7 @@ This project demonstrates deep system integration — ML models operating on liv
 
 SmartRespire addresses a real-world diagnostic gap in under-resourced healthcare settings. The hybrid CNN + Transformer architecture leverages convolutional layers for local acoustic feature extraction and transformer attention for capturing long-range temporal dependencies in lung audio — a non-trivial architecture choice validated across multiple disease classes. All SDLC phases were completed: data preprocessing, model training, test-driven debugging, and production API deployment.
 
-[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/rohitkumar/smartrespire)
+[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/rohit1verma/smartrespire)
 
 </details>
 
@@ -173,7 +173,7 @@ SmartRespire addresses a real-world diagnostic gap in under-resourced healthcare
 
 Money MateX is a real-world agentic AI system: it detects input type (natural language vs receipt image), routes through OCR or direct LLM parsing, validates output against JSON schemas, and persists structured records — all within a single n8n workflow graph. The system is privacy-conscious by design, with secure credential management and no persistent raw data storage.
 
-[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/rohitkumar/money-matex)
+[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/rohit1verma/money-matex)
 
 </details>
 
@@ -200,7 +200,7 @@ Money MateX is a real-world agentic AI system: it detects input type (natural la
 
 Roomify demonstrates product engineering thinking beyond pure feature development — it is architected as a scalable SaaS product with a clean separation between the AI inference layer and the client-facing interface. The serverless deployment model ensures cost-efficient scaling with zero cold-start penalties for the core visualization workflow.
 
-[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/rohitkumar/roomify)
+[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/rohit1verma/roomify)
 
 </details>
 
@@ -226,7 +226,7 @@ Roomify demonstrates product engineering thinking beyond pure feature developmen
 
 AeroRide demonstrates proficiency in event-driven architecture, WebSocket lifecycle management, and the coordination complexity inherent in real-time multi-user systems. The platform handles concurrent booking requests, live geolocation updates, and state synchronization across driver and passenger clients simultaneously.
 
-[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/rohitkumar/aeroride)
+[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/rohit1verma/aeroride)
 
 </details>
 
@@ -313,9 +313,9 @@ Owned the full engineering lifecycle of Money MateX, an AI-powered Telegram expe
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20Problems%20Solved-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rohit-verma/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20Problems%20Solved-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rohit-verma)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/rohitkumar?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8)](https://leetcode.com/u/Rohit-verma/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Rohit-verma?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8)](https://leetcode.com/u/Rohit-verma)
 
 </div>
 
@@ -325,13 +325,13 @@ Owned the full engineering lifecycle of Money MateX, an AI-powered Telegram expe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohitkumar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&ring_color=6D28D9&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rohit1verma&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&ring_color=6D28D9&include_all_commits=true&count_private=true" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumar&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1verma&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rohitkumar&theme=midnight-purple&hide_border=true&background=0d1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b949e&stroke=6D28D9" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rohit1verma&theme=midnight-purple&hide_border=true&background=0d1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b949e&stroke=6D28D9" width="700"/>
 
 </div>
 
@@ -341,7 +341,7 @@ Owned the full engineering lifecycle of Money MateX, an AI-powered Telegram expe
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rohitkumar&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rohit1verma&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -351,7 +351,7 @@ Owned the full engineering lifecycle of Money MateX, an AI-powered Telegram expe
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitkumar&theme=react-dark&bg_color=0d1117&color=A78BFA&line=7C3AED&point=6D28D9&area=true&area_color=4C1D95&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohit1verma&theme=react-dark&bg_color=0d1117&color=A78BFA&line=7C3AED&point=6D28D9&area=true&area_color=4C1D95&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -362,9 +362,9 @@ Owned the full engineering lifecycle of Money MateX, an AI-powered Telegram expe
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitkumar/rohitkumar/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitkumar/rohitkumar/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rohitkumar/rohitkumar/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohit1verma/rohit1verma/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohit1verma/rohit1verma/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rohit1verma/rohit1verma/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
@@ -412,9 +412,9 @@ current_focus:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-vermarohit7780%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vermarohit7780@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rohit--kumar-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-334132317/)
-[![GitHub](https://img.shields.io/badge/GitHub-rohitkumar-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohit1verma)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rohitkumar.dev-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://rohit-portfolio-five-phi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rohit--kumar-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-kumar-334132317)
+[![GitHub](https://img.shields.io/badge/GitHub-rohit1verma-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohit1verma)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://rohit-portfolio-five-phi.vercel.app)
 
 </div>
 
