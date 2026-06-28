@@ -268,7 +268,7 @@ Owned the full engineering lifecycle of Money MateX, an AI-powered Telegram expe
 | 🏆 **KSCST Government Grant** | Final-year project SmartRespire selected for funding by the Karnataka State Council for Science and Technology — recognizing technical innovation and real-world healthcare impact |
 | 🥇 **College Tech Competition Winner** | First place for innovative problem-solving in full-stack system design — evaluated on architecture quality, scalability, and engineering execution |
 | 💻 **LeetCode 400+ Problems** | Solved 400+ algorithmic problems across arrays, strings, graphs, dynamic programming, and system design patterns — demonstrating strong DSA proficiency |
-| 🎓 **Academic Excellence** | 8.1 CGPA · No active backlogs · B.E Computer Science Engineering 2022–2026 |
+| 🎓 **Academic Excellence** | 8.3 CGPA · No active backlogs · B.E Computer Science Engineering 2022–2026 |
 | 📱 **Internship Delivery** | Shipped a production-grade AI product (Money MateX) as the sole engineer during a 5-month internship engagement |
 
 </div>
@@ -331,7 +331,7 @@ Owned the full engineering lifecycle of Money MateX, an AI-powered Telegram expe
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rohit1verma&theme=midnight-purple&hide_border=true&background=0d1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b949e&stroke=6D28D9" width="700"/>
+<img src="https://streak-stats.demolab.com?user=rohit1verma&theme=midnight-purple&hide_border=true&background=0d1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b949e&stroke=6D28D9" width="700"/>
 
 </div>
 
@@ -341,9 +341,7 @@ Owned the full engineering lifecycle of Money MateX, an AI-powered Telegram expe
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rohit1verma&theme=kimbie_dark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+[![GitHub Trophies](https://github-profile-trophy-winning.vercel.app/?username=rohit1verma&theme=kimbie_dark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
